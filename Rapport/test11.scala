@@ -1,0 +1,10 @@
+val str = "lllllllll".toList
+val tree = createCodeTree(str)
+val encoded = encode(tree)(str)
+val decoded = decode(tree)(encoded)
+val codeta = convert(tree)
+println(str)
+println(tree)
+println(codeta)
+println(encoded)
+println(edTest(str))

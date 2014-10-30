@@ -1,0 +1,2 @@
+hint: find a clever way to map, and flatten the list.
+We need to flatten, because we map a letter to a list containing lists (encoding map).
